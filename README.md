@@ -1,7 +1,7 @@
 -👋Hi,I'm @careyk-gif
--👀I'm interested in sooftware development and AI
+-👀I'm interested in software development and AI
 -🌱I'm currently learning front end development
--💞️I'm Looking to collaboarate with individuals learning software development from scratch
+-💞️I'm Looking to collaboarate on projects for beginners
 -📫reach me via careyk896@gmail.com
 -⚡Explorative
 
